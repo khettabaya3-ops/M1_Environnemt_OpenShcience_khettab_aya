@@ -1,4 +1,6 @@
-## Données environnementales
+## Analyse des précipitations
+
+L'étude des précipitations permet de suivre les variations temporelles des conditions hydrologiques et météorologiques.## Données environnementales
 
 Les données environnementales peuvent concerner la température, les précipitations, la qualité de l'air, la qualité de l'eau ou la biodiversité.
 
